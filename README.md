@@ -242,6 +242,7 @@ Two calculated columns added in Power Query:
 | Countries Tracked | KPI Card | 176 countries |
 | Global CO2 Emissions Trend | Line Chart | Steady increase globally despite renewable growth |
 | Top Countries by Renewable Share (2019) | Bar Chart | Top 10 dominated by biomass-dependent nations |
+
 ![Global Overview](screenshots/01_global_overview.png)
 ---
 
@@ -255,6 +256,7 @@ Two calculated columns added in Power Query:
 | Avg Renewable Share (%) | KPI Card | 22.47% average over 20 years |
 | Avg CO2 Emissions (kt) | KPI Card | 45K kt average |
 | Avg Renewable Electricity (TWh) | KPI Card | 13.67 TWh average |
+
 ![Denmark Focus](screenshots/02_denmark_focus.png)
 ---
 
@@ -267,6 +269,7 @@ Two calculated columns added in Power Query:
 | Renewable Share Trend by Country (2000–2019) | Line Chart | Denmark shows steepest growth curve among peers |
 | CO2 Emissions: 2000 vs 2019 | Clustered Bar | Denmark smallest absolute CO2 among all 8 countries |
 | Country Filter | Slicer (dropdown) | Interactive — user can add/remove any country |
+
 ![European Comparison](screenshots/03_european_comparison.png)
 ---
 
@@ -278,6 +281,7 @@ Two calculated columns added in Power Query:
 | Global Renewable Energy Share (2019) | Map (bubble) | Africa and South America most visually dominant |
 | Countries by Energy Status (2019) | Donut Chart | Nearly even split across 4 categories |
 | Avg Renewable Share by Region (2019) | Bar Chart | Northern Europe leads (55%+); Western Europe last among named regions |
+
 ![Global Energy Status](screenshots/04_global_energy_status.png)
 ---
 
